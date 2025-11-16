@@ -1,0 +1,33 @@
+body {
+  font-family: Arial;
+  background: white;
+}
+
+#site-header {
+  text-align: center;
+  background: #0b486b;
+  color: white;
+  padding: 20px;
+}
+
+.section-title {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.place {
+  margin: 15px;
+  padding: 10px;
+  background: white;
+  border: 1px solid ;
+}
+.place:hover{
+    box-shadow: 2px 2px 12px ;
+}
+
+#site-footer {
+  text-align: center;
+  padding: 15px;
+  background: #0b486b;
+  color: white;
+}
